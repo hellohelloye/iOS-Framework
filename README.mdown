@@ -2,6 +2,10 @@ Building a static iOS framework is a pain in the ass. There are a variety of exi
 already and each one has its own disadvantages. Presented here is a solution that meets all of the
 following constraints while having no deal-breaking disadvantages.
 
+***********************************************
+hellehelleye awesome explaination (^_^)/
+************************************************
+
 - Fast iterative compilation times (up to 3x faster than some solutions!).
 - Easy distribution and packaging.
 - No modifications to Xcode.
